@@ -8,3 +8,9 @@ h1::selection
   background-color:#333;
   color:#FFF;
 }
+
+p::selection
+{
+  background-color:#333;
+  color:#FFF;
+}
